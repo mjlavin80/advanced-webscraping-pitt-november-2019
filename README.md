@@ -62,6 +62,7 @@ https://bit.ly/webscraping-slides
 
 In this part of the workshop, I'll take us through some of the examples I used in my slides, as well as a couple wildcards. We will look at the source code of several websites and try to think about how to break down the problem of web-scraping. The example sites are:
 
+- https://mjlavin80.github.io/advanced-webscraping-pitt-november-2019/oed
 - https://mjlavin80.github.io/pseudonyms/ 
 - http://www.oed.com/browsedictionary
 - https://memory-alpha.fandom.com/wiki/Starfleet_casualties_(22nd_century)
