@@ -55,7 +55,7 @@ As we go around the room, tell everyone your name and what you are studying or w
 
 Below is a copy of my slide deck for later reference:
 
-https://bit.ly/webscraping-slides 
+https://bit.ly/web-scraping-slides 
 
 ## Activity 1 
 ### (approximately 15 minutes)
@@ -68,7 +68,7 @@ In this part of the workshop, I'll take us through some of the examples I used i
 - https://memory-alpha.fandom.com/wiki/Starfleet_casualties_(22nd_century)
 - https://memory-alpha.fandom.com/wiki/Starfleet_casualties_(23rd_century)
 - https://memory-alpha.fandom.com/wiki/Starfleet_casualties_(24th_century) Note: these three wiki pages were used to create a data visualization of Star Trek deaths by shirt color. See http://digg.com/2019/star-trek-shirt-color-death-data-viz and https://www.startrek.com/article/did-redshirts-really-die-more-often-on-tos for some background.
-- http://movies2.nytimes.com/learning/general/onthisday/bday/0101.html I scraped the obituaries from the "On This Day" series for a tutorial I wrote for _The Programming Historian_ (forthcoming)
+- http://movies2.nytimes.com/learning/general/onthisday/bday/0101.html I scraped the obituaries from the "On This Day" series for a tutorial I wrote for _The Programming Historian_ 
 - http://www.nuforc.org/webreports/ndxpost.html Note: A dataset was scraped, geolocated, and time standardized from NUFORC data by Sigmond Axel (see https://github.com/planetsig/ufo-reports). The goal for us is to think about how it would be done.
 
 ## Break around 2:10 p.m. 
