@@ -1,0 +1,219 @@
+,stardate,color,name,species,position,rank,designation,description,source,color_group
+0,2153,#5B1414,Fuller,Human,Tactical officer,Crewman,Operations/Engineering/Security,Killed by Osaarian pirates,"ENT: ""Anomaly""",Red
+1,2153,Unknown/Other,Sim,Mimetic simbiot,,Other/No Rank,Other/No Designation,Created to provide Charles Tucker III with vital brain tissue; lived fifteen days,"ENT: ""Similitude""",Unknown/Other
+2,2153,#5B1414,Unnamed,Human,,Crewman,Operations/Engineering/Security,Shot by a Xindi bio weapon,"ENT: ""Rajiin""",Red
+3,2153,#5B1414,Unnamed,Human,,Crewman,Operations/Engineering/Security,Shot by a Xindi bio weapon,"ENT: ""Rajiin""",Red
+4,2153,#073835,Unnamed,Human,,Crewman,Scientific/Medical,Killed by a Triannon organic explosive and the resulting decompression,"ENT: ""Chosen Realm""",Green/Blue
+5,2153 | 2154,transparent,"O'Malley, Patricia F.",Human,,Ensign,Other/No Designation,"Died ""in a battle with a hostile species""","ENT: ""Storm Front, Part II""",Unknown/Other
+6,2154,#5B1414,Burrows,Human,Armory officer,Ensign,Operations/Engineering/Security,Killed by the Quinn Erickson subspace entity,"ENT: ""Daedalus""",Red
+7,2154,transparent,Kamata,Human,,Crewman,Other/No Designation,Trapped in section decompression during a Xindi battle,"ENT: ""The Forgotten""",Unknown/Other
+8,2154,transparent,Marcel,Human,,Ensign,Other/No Designation,Killed during a Xindi attack,"ENT: ""The Forgotten""",Unknown/Other
+9,2154,#5B1414,"Taylor, Jane",Human,EPS control specialist,Lieutenant,Operations/Engineering/Security,Trapped in section decompression during a Xindi battle,"ENT: ""The Forgotten""",Red
+10,2154,#5B1414,Unnamed,Human,Engineer,Crewman,Operations/Engineering/Security,Caught on fire during the battle with the Xindi-Reptilians at Azati Prime. (WIA),"ENT: ""Azati Prime""",Red
+11,2154,#5B1414,Unnamed,Human,Engineer,Crewman,Operations/Engineering/Security,Hit by an energy disruption from one of the Sphere-Builders. (WIA),"ENT: ""Zero Hour""",Red
+12,2155,#5B1414,Masaro,Human,Engineer,Ensign,Operations/Engineering/Security,Committed suicide after being revealed as a spy for Terra Prime,"ENT: ""Terra Prime""",Red
+13,2161,#5B1414,"Tucker III, Charles",Human,Chief engineer,Commander,Operations/Engineering/Security,Massive plasma burns; sacrificed himself to save Captain Archer,"ENT: ""These Are the Voyages...""",Red
+14,2153,#AD722C,"Robinson, A.G.",Human,,Other/No Rank,Command/Helm,Mountain climbing accident,"ENT: ""First Flight""",Yellow
+15,2154,#5B1414,Askwith,Human,Security guardUnited Earth Embassy,Corporal,Other/No Designation,Put into a coma by the attack on the United Earth Embassy on Vulcan. (WIA),"ENT: ""The Forge""",Red
+16,2154,#FFFFFF,"Forrest, Maxwell",Human,Admiralty,Vice Admiral,Other/No Designation,Perished in an attack on the United Earth Embassy on Vulcan,"ENT: ""The Forge""",White
+17,2164,Unknown/Other,"Cormier, Randall",Human,,Other/No Rank,Other/No Designation,The USS Franklin crash landed on the planet Altamid,Star Trek Beyond,Unknown/Other
+18,2164,#1A3F73,"Crosby, Mae",Human,,Unknown Rank,Other/No Designation,The USS Franklin crash landed on the planet Altamid,Star Trek Beyond,Green/Blue
+19,2164,#742222,"Noble, Meghan",Human,,Unknown Rank,Other/No Designation,The USS Franklin crash landed on the planet Altamid,Star Trek Beyond,Red
+20,2164,#742222,"Peters, Britni",Human,,Unknown Rank,Other/No Designation,The USS Franklin crash landed on the planet Altamid,Star Trek Beyond,Red
+21,2164,#742222,"Smith, Craig",Human,,Unknown Rank,Other/No Designation,The USS Franklin crash landed on the planet Altamid,Star Trek Beyond,Red
+22,2164,#742222,"Yanovich, Laura",Human,,Unknown Rank,Other/No Designation,The USS Franklin crash landed on the planet Altamid,Star Trek Beyond,Red
+23,2167,Unknown/Other,"Kelly, Morgan",Human,Lieutenant,Lieutenant,Other/No Designation,USS Essex destroyed at a moon of Mab-Bu VI,"TNG: ""Power Play""",Unknown/Other
+24,2167,Unknown/Other,"Mullen, Steven",Human,Commander,Commander,Command/Helm,USS Essex destroyed at a moon of Mab-Bu VI,"TNG: ""Power Play""",Unknown/Other
+25,2167,Unknown/Other,"Shumar, Bryce",Human,Captain,Other/No Rank,Command/Helm,USS Essex destroyed at a moon of Mab-Bu VI,"TNG: ""Power Play""",Unknown/Other
+26,2256,#B87333,Kowski,Human,Security officer,Unknown rank,Operations/Engineering/Security,Killed by Ripper,"DIS: ""Context Is for Kings""",Yellow
+27,2256,#B87333,"Landry, Ellen",Human,Chief of security,Commander,Operations/Engineering/Security,Killed by Ripper,"DIS: ""The Butcher's Knife Cares Not for the Lamb's Cry""",Yellow
+29,2257,#C0C0C0,Airiam,Human (cyborg),Spore drive ops officer,Lieutenant Commander,Scientific/Medical,Ejected out of an airlock into space by Nhan,"DIS: ""Project Daedalus""",Gray
+30,2265,#62749A,"Dehner, Elizabeth",Human,Psychiatrist,Unknown Officer Rank,Scientific/Medical,Killed by esper Gary Mitchell,"TOS: ""Where No Man Has Gone Before""",Green/Blue
+31,2265,#F6DBD0,"Kelso, Lee",Human,Navigator,Lieutenant,Command/Helm,Strangled by esper Gary Mitchell,"TOS: ""Where No Man Has Gone Before""",Yellow
+32,2265,#F6DBD0,"Mitchell, Gary",Human,Helmsman,Lieutenant Commander,Other/No Designation,Killed by James T. Kirk after exposure to galactic barrier,"TOS: ""Where No Man Has Gone Before""",Yellow
+33,2266,transparent,Barnhart,Human,Crewman,Crewman,Other/No Designation,Killed by an M-113 creature for sustenance,"TOS: ""The Man Trap""",Unknown/Other
+34,2266,#62749A,Darnell,Human,Medical assistant,Crewman,Scientific/Medical,Killed by an M-113 creature for sustenance,"TOS: ""The Man Trap""",Green/Blue
+35,2266,#B59C5A,Green,Human,Security Officer,Crewman,Command/Helm,Killed by an M-113 creature for sustenance,"TOS: ""The Man Trap""",Yellow
+36,2266,#A01502,Mathews,Human,Security Officer,Crewman,Operations/Engineering/Security,Pushed over a cliff by Ruk,"TOS: ""What Are Little Girls Made Of?""",Red
+37,2266,#A01502,Rayburn,Human,Security Officer,Crewman,Operations/Engineering/Security,Suffocated by Ruk,"TOS: ""What Are Little Girls Made Of?""",Red
+38,2266,#62749A,Sturgeon,Human,Science Officer,Crewman,Scientific/Medical,Killed by an M-113 creature for sustenance,"TOS: ""The Man Trap""",Green/Blue
+39,2266,#B59C5A,"Tomlinson, Robert",Human,Phaser control specialist,Lieutenant,Command/Helm,Exposed to phaser coolant,"TOS: ""Balance of Terror""",Yellow
+40,2266,#62749A,"Tormolen, Joe",Human,Science officer,Lieutenant junior grade,Scientific/Medical,"Stabbed himself, exacerbated from polywater intoxication","TOS: ""The Naked Time""",Green/Blue
+41,2267,#A01502,Carlisle,Human,Security officer,Lieutenant,Operations/Engineering/Security,Killed by Nomad,"TOS: ""The Changeling""",Red
+42,2267,#B59C5A,Gaetano,Human,Radiation specialist,Lieutenant,Command/Helm,Killed by a Taurus II anthropoid,"TOS: ""The Galileo Seven""",Yellow
+43,2267,#62749A,"Galway, Arlene",Human,Science Officer,Lieutenant,Scientific/Medical,Died of rapid aging caused by radiation,"TOS: ""The Deadly Years""",Green/Blue
+44,2267,#A01502,Grant,Human,Security Officer,Lieutenant,Operations/Engineering/Security,Stabbed with a Capellan kleegat for showing hostility,"TOS: ""Friday's Child""",Red
+45,2267,#A01502,Hendorff,Human,Security Officer,Crewman,Operations/Engineering/Security,Poisoned by contact with a Gamma Trianguli VI pod plant,"TOS: ""The Apple""",Red
+46,2267,#B59C5A,Jackson,Human,,Lieutenant,Command/Helm,"Killed by Sylvia using ""sympathetic magic""","TOS: ""Catspaw""",Yellow
+47,2267,#A01502,Kaplan,Human,Security Officer,Lieutenant,Operations/Engineering/Security,Vaporized when struck by lightning created by Vaal,"TOS: ""The Apple""",Red
+48,2267,#B59C5A,Lang,Human,Tactical Officer,Lieutenant Commander,Command/Helm,Killed by Gorn soldiers on Cestus III,"TOS: ""Arena""",Yellow
+49,2267,#B59C5A,Latimer,Human,Navigator,Lieutenant,Command/Helm,Killed by a Taurus II anthropoid,"TOS: ""The Galileo Seven""",Yellow
+50,2267,#A01502,Mallory,Human,Security Officer,Lieutenant,Operations/Engineering/Security,Died after stepping on an Explosive mineral formation,"TOS: ""The Apple""",Red
+51,2267,#A01502,Marple,Human,Security Officer,Lieutenant,Operations/Engineering/Security,Killed by the Vaalians,"TOS: ""The Apple""",Red
+52,2267,#A01502,O'Herlihy,Human,Tactical Officer,Ensign,Operations/Engineering/Security,Killed by Gorn soldiers on Cestus III,"TOS: ""Arena""",Red
+53,2267,Unknown/Other,O'Neill,,,Ensign,Other/No Designation,Killed by Taurus II anthropoids,"TOS: ""The Galileo Seven""",Unknown/Other
+54,2267,#62749A,"Tracy, Karen",Human,Medical technician,Lieutenant,Scientific/Medical,Stabbed to death by Redjac,"TOS: ""Wolf in the Fold""",Green/Blue
+55,2267,#A01502,Kelly,Human,Security officer,Crewman,Operations/Engineering/Security,Killed by a Horta's acid,"TOS: ""The Devil in the Dark""",Red
+56,2267,#A01502,Unidentified,Human,Security Officer,Lieutenant,Operations/Engineering/Security,Killed by Nomad,"TOS: ""The Changeling""",Red
+57,2267,#A01502,Unidentified,Human,Security Officer,Lieutenant,Operations/Engineering/Security,Killed by Nomad,"TOS: ""The Changeling""",Red
+58,2267,#A01502,Unidentified,Human,Security Officer,Lieutenant,Operations/Engineering/Security,Killed by Nomad,"TOS: ""The Changeling""",Red
+59,2268,#A01502,Compton,Human,,Crewman,Operations/Engineering/Security,Died from a small wound that turned fatal due to him experiencing hyper-acceleration,"TOS: ""Wink of an Eye""",Red
+60,2268,#62749A,D'Amato,Human,Geologist,Lieutenant,Scientific/Medical,Killed by Losira,"TOS: ""That Which Survives""",Green/Blue
+61,2268,#A01502,Harper,Human,Engineer,Ensign,Operations/Engineering/Security,Vaporized by the M-5 computer,"TOS: ""The Ultimate Computer""",Red
+62,2268,#A01502,Rizzo,Human,Security Officer,Ensign,Operations/Engineering/Security,Died aboard the Enterprise as a result of the dikironium cloud creature's attack,"TOS: ""Obsession""",Red
+63,2268,#A01502,"Thompson, Leslie",Human,,Crewman,Operations/Engineering/Security,"Transformed into a crystalline block by Rojan; Rojan then crumbled the block, killing her","TOS: ""By Any Other Name""",Red
+64,2268,#A01502,"Watkins, John B.",Human,Technician,Crewman,Operations/Engineering/Security,Killed by Losira,"TOS: ""That Which Survives""",Red
+65,2268,#A01502,Watson,Human,Engineer,Crewman,Operations/Engineering/Security,Killed by Kryton,"TOS: ""Elaan of Troyius""",Red
+66,2268,#A01502,Wyatt,Human,Transporter Chief,Ensign,Operations/Engineering/Security,Killed by Losira,"TOS: ""That Which Survives""",Red
+67,2268,#A01502,Unidentified,Human,Security Officer,Crewman,Operations/Engineering/Security,Killed by the dikironium cloud creature,"TOS: ""Obsession""",Red
+68,2268,#A01502,Unidentified,Human,Security Officer,Crewman,Operations/Engineering/Security,Killed by the dikironium cloud creature,"TOS: ""Obsession""",Red
+69,2268,#A01502,Unidentified,Humans,Two Security officers,Crewmen,Operations/Engineering/Security,"Were beamed down to Triacus; however, since the Enterprise had left the orbit of the planet, these men died","TOS: ""And the Children Shall Lead""",Red
+70,2270s,#FFFFFF,"Decker, Will",Human,Commanding officer / First officer,Other/No Rank,Command/Helm,Merged with V'Ger; listed as MIA,Star Trek: The Motion Picture,White
+71,2270s,#FFFC00,Ilia,Deltan,Navigator,Lieutenant,Command/Helm,Replaced by V'Ger; listed as MIA,Star Trek: The Motion Picture,Yellow
+72,2270s,#FE0100,Sonak,Vulcan,Science officer,Commander,Scientific/Medical,Killed in a transporter accident,Star Trek: The Motion Picture,Red
+73,2270s,transparent,Unnamed,Human,Crewmember,Crewman,Other/No Designation,Killed in a transporter accident,Star Trek: The Motion Picture,Unknown/Other
+74,2285,#CC0000,"Preston, Peter",Human,Engineer's assistant/Cadet,Midshipman,Operations/Engineering/Security,Received fatal burns as a result of the USS Reliant's attack,Star Trek II: The Wrath of Khan,Red
+75,2256,#B87333;,"Connor, Danby",Human,"Operations officer, USS Shenzhou",Ensign,Operations/Engineering/Security,Killed by explosive decompression,"DIS: ""Battle at the Binary Stars""",Yellow
+76,2256,goldenrod;,"Georgiou, Philippa",Human,"Commanding officer, USS Shenzhou",Captain,Command/Helm,Killed by T'Kuvma by stabbing,"DIS: ""Battle at the Binary Stars""",Yellow
+77,2256,goldenrod;,"Maranville, Steven",Human,"Commanding officer, USS Yeager",Captain,Command/Helm,Killed in the Battle of the Binary Stars,"DIS: ""Battle at the Binary Stars"", ""Choose Your Pain""",Yellow
+78,2256,#B87333,"Tyler, Ash",Human,"Officer, USS Yeager",Lieutenant,Command/Helm,Used as parts for the choH'a' when Voq assumed his identity,"DIS: ""Battle at the Binary Stars"", ""Vaulting Ambition""",Yellow
+79,2256,#C0C0C0,Straal,Human,"Science officer, USS Glenn",Unknown rank,Scientific/Medical,Killed when a basidiosac rupture occurred during a test flight,"DIS: ""Context Is for Kings""",Gray
+80,2257,#98925E,Garrovick,Human,"Commanding officer,USS Farragut",Other/No Rank,Command/Helm,Killed by the dikironium cloud creature,"TOS: ""Obsession""",Yellow
+81,2266,#98925E,"Nellis, Tom",Human,"First officer,Antares",Lieutenant,Command/Helm,Killed when Charlie Evans destroyed the Antares,"TOS: ""Charlie X""",Yellow
+82,2266,#98925E,Ramart,Human,"Commanding officer,Antares",Other/No Rank,Command/Helm,Killed when Charlie Evans destroyed the Antares,"TOS: ""Charlie X""",Yellow
+83,2266,#F6DBD0,Hansen,Human,"Commander,Outpost 4",Commander,Command/Helm,Killed by the Romulans during the Neutral Zone Incursion,"TOS: ""Balance of Terror""",Yellow
+84,2267,#B59C5A;,"Decker, Matt",Human,"Commanding officer,USS Constellation",Commodore,Command/Helm,Kamikaze maneuver of a shuttlecraft into the planet killer,"TOS: ""The Doomsday Machine""",Yellow
+85,2267,#B59C5A;,Travers,Human,Leader of the Cestus III colony contingent,Commodore,Command/Helm,Killed by the Gorn,"TOS: ""Arena""",Yellow
+86,2268,#62749A;,Carter,Human,"Chief medical officer,USS Exeter",Commander,Scientific/Medical,Died from a bacterial disease,"TOS: ""The Omega Glory""",Green/Blue
+87,2268,#B59C5A;,Harris,Human,"Commanding officer,USS Excalibur",Other/No Rank,Command/Helm,Died when the M-5 multitronic unit assaulted the ship,"TOS: ""The Ultimate Computer""",Yellow
+88,2270s,#F79C07;,Branch,Human,"Commanding officer,Epsilon IX station",Commander,Command/Helm,Absorbed by V'Ger,Star Trek: The Motion Picture,Yellow
+89,2270s,#F79C07;,Unidentified,Human,Epsilon IX station,Lieutenant,Command/Helm,Absorbed by V'Ger,Star Trek: The Motion Picture,Yellow
+90,2270s,#F79C07;,Unidentified,Human,"Technician,Epsilon IX station",Crewman,Operations/Engineering/Security,Absorbed by V'Ger,Star Trek: The Motion Picture,Yellow
+91,2270s,#F79C07;,Unidentified,,Epsilon IX station,Crewman,Other/No Designation,Absorbed by V'Ger,Star Trek: The Motion Picture,Yellow
+92,2270s,transparent,Three unidentified,Humans,"Technicians,Epsilon IX station",Crewman,Operations/Engineering/Security,Absorbed by V'Ger,Star Trek: The Motion Picture,Unknown/Other
+93,2267 | 2285,#A01502,"McGivers, Marla",Human,"Historian,Inactive",Lieutenant,Other/No Designation,Killed on Ceti Alpha VReported in 2285,Star Trek II: The Wrath of Khan,Red
+94,2285,#FEFEFE;,"Esteban, J.T.",Human,"Commanding officer,USS Grissom",Other/No Rank,Command/Helm,Killed in an attack by Commander Kruge's Klingon Bird-of-Prey,Star Trek III: The Search for Spock,White
+95,2285,#FEFEFE;,"Terrell, Clark",Human,"Commanding officer,USS Reliant",Other/No Rank,Command/Helm,Suicide,Star Trek II: The Wrath of Khan,White
+96,2293,#0A0000,Burke,Human,YeomanUSS Enterprise-A,"Petty officer, 1st class",Command/Helm,Killed by Valeris with a phaser on stun,Star Trek VI: The Undiscovered Country,Black
+97,2293,#0A0000,Samno,Human,YeomanUSS Enterprise-A,Crewman,Command/Helm,Killed by Valeris with a phaser on stun,Star Trek VI: The Undiscovered Country,Black
+98,2293,gold,West,Human,Starfleet Command,Colonel,Command/Helm,Fell through a window after being shot by Scotty,Star Trek VI: The Undiscovered Country,Yellow
+99,2293,#A7A0AB,Unnamed,Human,NavigatorUSS Enterprise-B,Lieutenant Commander,Command/Helm,Killed when Enterprise was caught in the Nexus,Star Trek Generations,Gray
+100,2294,transparent,"Franklin, Matt",,USS Jenolan,Ensign,Other/No Designation,His pattern in the pattern buffer was unretrievable in 2369 after having degraded by 53 percent,"TNG: ""Relics""",Unknown/Other
+101,2344,#FEFEFE,"Castillo, Richard",Human,HelmsmanActing Commanding Officer,Lieutenant junior grade,Command/Helm,Listed as KIA after Battle of Narendra III,"TNG: ""Yesterday's Enterprise""",White
+102,2344,#0A0000,Fredericks,Human,Acting Helmsman,Enlisted,Command/Helm,Listed as KIA after Battle of Narendra III,"TNG: ""Yesterday's Enterprise""",Black
+103,2344,#0A0000,Parker,Human,Acting Operations Officer,Enlisted,Operations/Engineering/Security,Listed as KIA after Battle of Narendra III,"TNG: ""Yesterday's Enterprise""",Black
+104,2349,#AD722C,"Yar, Natasha",Human,Acting Chief Tactical Officer,Lieutenant,Command/Helm,Killed while trying to escape Romulan custody with her daughter Sela,"TNG: ""Redemption II""",Yellow
+106,2364,#AD722C,Ramos,Human,Security officer,Crewman,Operations/Engineering/Security,Killed by Korris and Konmel,"TNG: ""Heart of Glory""",Yellow
+107,2364,#AD722C,Singh,Human,Assistant chief engineer,Lieutenant junior grade,Operations/Engineering/Security,Killed by the Beta Renner cloud,"TNG: ""Lonely Among Us""",Yellow
+108,2364,#AD722C,"Yar, Natasha",Human,Chief Tactical OfficerSecurity Chief,Lieutenant,Command/Helm,Killed by Armus on Vagra II,"TNG: ""Skin of Evil""",Yellow
+109,2364,#AD722C,Unidentified,Human,Security officer,Crewman,Operations/Engineering/Security,Killed by Korris and Konmel,"TNG: ""Heart of Glory""",Yellow
+110,2365,#8C212B,Haskell,Human,Flight controller,Ensign,Command/Helm,Killed by Nagilum,"TNG: ""Where Silence Has Lease""",Red
+111,2365,#8C212B,"Picard, Jean-Luc",Human,Commanding Officer,Captain,Command/Helm,"Traveled six hours back in time, where he was killed by his past self.","TNG: ""Time Squared""",Red
+112,2366,#112959,"Aster, Marla",Human,Archaeology and anthropology officer,Lieutenant,Scientific/Medical,Killed by a Koinonian bomb,"TNG: ""The Bonding""",Green/Blue
+113,2366,transparent,"Brooks, Marc",Human,Crewman,Crewman,Other/No Designation,Died in an accident,"TNG: ""The Loss""",Unknown/Other
+114,2366,transparent,Sandoval,,Crewman,Crewman,Other/No Designation,Hit by a disruptor blast; died two weeks later,"TNG: ""Ethics""",Unknown/Other
+115,2367,#AD722C,Van Mayter,Human,Engineer,Lieutenant junior grade,Operations/Engineering/Security,Partially fell into the deck beneath her,"TNG: ""In Theory""",Yellow
+116,2368,#8C212B,Monroe,Human,Flight controller,Lieutenant junior grade,Command/Helm,Killed when the conn station exploded,"TNG: ""Disaster""",Red
+117,2369,#AD722C,Corelki,Human,Security officer,Ensign,Operations/Engineering/Security,Killed by Bosus,"TNG: ""Descent""",Yellow
+118,2369,#AD722C,Franklin,Human,Security officer,Crewman,Operations/Engineering/Security,Killed by rogue Borg,"TNG: ""Descent""",Yellow
+119,2369,#8C212B,"Hagler, Edward",Human,,Lieutenant,Command/Helm,Killed when his blood transformed into a liquid polymer,"TNG: ""Schisms""",Red
+120,2369,#112959,Richardson,Human,Science officer,Crewman,Scientific/Medical,Killed in a firestorm on Bersallis III,"TNG: ""Lessons""",Green/Blue
+121,2369,#AD722C,Unnamed,Human,Security officer,Ensign,Operations/Engineering/Security,Killed by rogue Borg,"TNG: ""Descent""",Yellow
+122,2370,#8C212B,Dern,Human,Flight controller,Ensign,Command/Helm,Killed by a devolved Worf,"TNG: ""Genesis""",Red
+123,2370,#AD722C,"Kwan, Daniel",Human/Napean Hybrid,Engineer,Lieutenant junior grade,Operations/Engineering/Security,Committed suicide by jumping into a plasma stream,"TNG: ""Eye of the Beholder""",Yellow
+124,2370,#AD722C,Sito Jaxa,Bajoran,Operations Officer,Ensign,Operations/Engineering/Security,Debris of escape pod found after covert assignment into Cardassian space; listed as KIA,"TNG: ""Lower Decks""",Yellow
+125,2370,#AD722C,Unnamed,Human,Security officer,Crewman,Operations/Engineering/Security,Killed by mercenaries on Barradas III,"TNG: ""Gambit, Part I""",Yellow
+126,"April 4,2063",#AD722C,Eiger,Human,Engineer,Lieutenant,Operations/Engineering/Security,Assimilated by the Borg,Star Trek: First Contact,Yellow
+127,"April 4,2063",transparent,Lynch,Human,,Ensign,Other/No Designation,Assimilated by the Borg;later shot by Jean-Luc Picard,Star Trek: First Contact,Unknown/Other
+128,"April 4,2063",#AD722C,"Porter, Paul",Human,Engineer,Lieutenant,Operations/Engineering/Security,Assimilated by the Borg,Star Trek: First Contact,Yellow
+129,"April 4,2063",#AD722C,Unidentified,Human,Security officer,Ensign,Operations/Engineering/Security,Assimilated by the Borg;killed by Jean-Luc Picard (mercy-kill),Star Trek: First Contact,Yellow
+130,"April 4,2063",#AD722C,Unidentified,Human,Crewman,Crewman,Operations/Engineering/Security,Assimilated by the Borg,Star Trek: First Contact,Yellow
+131,"April 4,2063",#143F48,Unidentified,Bolian,Engineer,Crewman,operations/Engineering/Security,Assimilated by the Borg,Star Trek: First Contact,Green/Blue
+132,"April 4,2063",#5B1414,Unidentified,Human,Security officer,Lieutenant,Operations/Engineering/Security,Assimilated by the Borg,Star Trek: First Contact,Red
+133,"April 5,2063",#5B1414,Hawk,Human,Flight controller,Lieutenant,Command/Helm,Assimilated by the Borg; later shot by Worf,Star Trek: First Contact,Red
+134,2379,#5B1414,Branson,Human,Flight controller,Lieutenant,Command/Helm,"""Blown out"" into space after bridge decompression during the Battle in the Bassen Rift",Star Trek Nemesis,Red
+135,2379,#AD722C,Data,Android,Operations Officer,Lieutenant Commander,Operations/Engineering/Security,Destroyed during the destruction of the Scimitar,Star Trek Nemesis,Yellow
+136,2369,#AD722C,Aquino,Human,"Engineer,Deep Space 9",Ensign,Operations/Engineering/Security,Killed by Neela,"DS9: ""In the Hands of the Prophets""",Yellow
+137,2371,#AD722C,"O'Brien, Miles",Human,"Chief of Operations,Deep Space 9",Senior chief petty officer,Operations/Engineering/Security,Deliberately contaminated himself with delta-series radioisotopes; replaced by future self,"DS9: ""Visionary""",Yellow
+138,2371,#8C212B,Unnamed,Human,Deep Space 9,Crewman,Command/Helm,Vaporized in Ops by level three of Dukat's counter-insurgency program,"DS9: ""Civil Defense""",Red
+139,2371,#8C212B,Unnamed,Human,"Helmsman,USS Defiant",Unknown Rank,Command/Helm,Killed during the ship's first battle with the Jem'Hadar,"DS9: ""The Search, Part I""",Red
+140,2371,#AD722C,Unnamed,Human,"Security officer,USS Defiant",Unknown Rank,Operations/Engineering/Security,Killed by Krajensky Changeling,"DS9: ""The Adversary""",Yellow
+141,2372,transparent,Bartlett,,USS Defiant,Crewman,Other/No Designation,Killed in the battle with the USS Lakota,"DS9: ""Paradise Lost""",Unknown/Other
+142,2372,transparent,Boyce,,USS Defiant,Crewman,Other/No Designation,Killed in an attack by the Jem'Hadar in a gas giant,"DS9: ""Starship Down""",Unknown/Other
+143,2372,transparent,Peterson,,USS Defiant,Crewman,Other/No Designation,Killed in an attack by the Jem'Hadar in a gas giant,"DS9: ""Starship Down""",Unknown/Other
+144,2372,#AD722C,Ramirez,Human,"Security officer,USS Defiant",Ensign,Operations/Engineering/Security,Killed on Vandros IV by rebel Jem'Hadar,"DS9: ""To the Death""",Yellow
+145,2372,transparent,Ramsey,,USS Defiant,Crewman,Other/No Designation,Killed in the battle with the USS Lakota,"DS9: ""Paradise Lost""",Unknown/Other
+146,2372,#AD722C,Unnamed,Human,"Security officer,USS Defiant",Ensign,Operations/Engineering/Security,Killed by Jem'Hadar on Vandros IV,"DS9: ""To the Death""",Yellow
+147,2373,#AD722C,Amaro,Human,"Security officer,Deep Space 9",Crewman,Operations/Engineering/Security,Killed by Elim Garak under the influence of psychotropic drugs,"DS9: ""Empok Nor""",Yellow
+148,2373,#8C212B,Bertram,Human,Deep Space 9,Unknown Rank,Command/Helm,Was in a runabout destroyed by the Jem'Hadar,"DS9: ""The Ship""",Red
+149,2373,#AD722C,Boq'ta,Bolian,"Engineer,Deep Space 9",Crewman,Operations/Engineering/Security,Killed by a Cardassian Third Battalion soldier under the influence of psychotropic drugs,"DS9: ""Empok Nor""",Yellow
+150,2373,#8C212B,Hoya,Benzite,Deep Space 9,Ensign,Command/Helm,Was in a runabout destroyed by the Jem'Hadar,"DS9: ""The Ship""",Red
+151,2373,#AD722C,"Muniz, Enrique",Human,"Enlisted,USS Defiant",Crewman,Operations/Engineering/Security,Bled to death on Torga IV,"DS9: ""The Ship""",Yellow
+152,2373,#AD722C,Pechetti,Human,"Engineer,Deep Space 9",Crewman,Operations/Engineering/Security,Killed by a Cardassian Third Battalion soldier under the influence of psychotropic drugs,"DS9: ""Empok Nor""",Yellow
+153,2373,#AD722C,Rooney,Human,Deep Space 9,Unknown Rank,Operations/Engineering/Security,Was in a runabout destroyed by the Jem'Hadar,"DS9: ""The Ship""",Yellow
+154,2373,#AD722C,Stolzoff,Human,"Security officer,Deep Space 9",Crewman,Operations/Engineering/Security,Killed by a Cardassian Third Battalion soldier under the influence of psychotropic drugs,"DS9: ""Empok Nor""",Yellow
+155,2373,#143F48,T'Lor,Tiburonian,Deep Space 9,Unknown Rank,Scientific/Medical,Killed by Jem'Hadar on Torga IV,"DS9: ""The Ship""",Green/Blue
+156,2373,#AD722C,Unnamed,Human,Deep Space 9,Unknown Rank,Operations/Engineering/Security,Killed when the USS Yukon was destroyed by the Bashir Changeling's bomb.,"DS9: ""By Inferno's Light""",Yellow
+157,2373,#AD722C,Unnamed,Human,Deep Space 9,Unknown Rank,Operations/Engineering/Security,Killed when the USS Yukon was destroyed by the Bashir Changeling's bomb.,"DS9: ""By Inferno's Light""",Yellow
+158,2373,#143F48,Unnamed,Human,Deep Space 9,Unknown Rank,Scientific/Medical,Killed when the USS Yukon was destroyed by the Bashir Changeling's bomb.,"DS9: ""By Inferno's Light""",Green/Blue
+159,2374,#143F48,"Dax, Jadzia",Trill,"Science officer,Deep Space 9",Lieutenant Commander,Scientific/Medical,Killed by Dukat (controlled by a Pah-wraith),"DS9: ""Tears of the Prophets""",Green/Blue
+160,2374,#AD722C,"Gordon, Paul",Human,"Security officer, It is unclear if Gordon was assigned to the Defiant or Starbase 375.",Ensign,Operations/Engineering/Security,Killed by the Jem'Hadar,"DS9: ""Rocks and Shoals""",Yellow
+161,2375,#AD722C,"Brott, Zim",Bolian,"Enlisted,Deep Space 9",Petty Officer,Operations/Engineering/Security,Killed by Chu'lak,"DS9: ""Field of Fire""",Yellow
+162,2375,#AD722C,"Ilario, Hector",Human,"Helmsman,Deep Space 9",Lieutenant junior grade,Operations/Engineering/Security,Killed by Chu'lak,"DS9: ""Field of Fire""",Yellow
+163,2375,#143F48,"Vanderweg, Greta",Human,"Science officer,Deep Space 9",Lieutenant commander,Scientific/Medical,Killed by Chu'lak,"DS9: ""Field of Fire""",Green/Blue
+164,2375,#5B1414,"Sisko, Benjamin",Human,"Commanding officer,Deep Space 9",Captain,Command/Helm,Fell with Dukat in the Fire Caves on Bajor; listed as MIA,"DS9: ""What You Leave Behind""",Red
+165,2373,#5B1414,Ramirez,,Commanding officer,Captain,Command/Helm,Died due to a punctured lung,"DS9: ""Valiant""",Red
+166,2374,grey,"Farris, Karen",Human,XORed Squad Cadet,Commander,Starfleet Academy,Died in the destruction of the USS Valiant,"DS9: ""Valiant""",Gray
+167,2374,grey,Parton,Human,EngineerRed Squad Cadet,Ensign,Starfleet Academy,Died in the destruction of the USS Valiant,"DS9: ""Valiant""",Gray
+168,2374,grey,"Shepard, Riley",Human,HelmsmanRed Squad Cadet,Lieutenant,Starfleet Academy,Died in the destruction of the USS Valiant,"DS9: ""Valiant""",Gray
+169,2374,grey,"Watters, Tim",Human,CORed Squad Cadet,Captain,Starfleet Academy,Died in the destruction of the USS Valiant,"DS9: ""Valiant""",Gray
+170,2375,#5B1414,"Larkin, Nadia",Human,,Lieutenant,Command/Helm,Killed in battle against Jem'Hadar troops,"DS9: ""The Siege of AR-558""",Red
+171,2375,#5B1414,Loomis,,Commanding officer,Captain,Command/Helm,Killed in battle against Jem'Hadar troops,"DS9: ""The Siege of AR-558""",Red
+172,2375,#AD722C,Kellin,Human,,Crewman,Operations/Engineering/Security,Killed in battle against Jem'Hadar troops,"DS9: ""The Siege of AR-558""",Yellow
+173,2375,#143F48,McGreevey,,,Unknown Rank,Scientific/Medical,Killed in battle against Jem'Hadar troops,"DS9: ""The Siege of AR-558""",Green/Blue
+174,2375,transparent,Parker,,,Commander,Other/No Designation,Killed in battle against Jem'Hadar troops,"DS9: ""The Siege of AR-558""",Unknown/Other
+175,2375,#AD722C,Vargas,Human,,Crewman,Operations/Engineering/Security,Killed in battle against Jem'Hadar troops,"DS9: ""The Siege of AR-558""",Yellow
+176,2371,#8C212B,Cavit,Human,XO,Lieutenant Commander,Command/Helm,Killed when Voyager was pulled into the Delta Quadrant,"VOY: ""Caretaker""",Red
+177,2371,#AD722C,"Durst, Pete",Human,Security officer,Lieutenant,Operations/Engineering/Security,Killed by Sulan,"VOY: ""Faces""",Yellow
+178,2371,#8C212B,Stadi,Betazoid,Flight Controller,Lieutenant,Command/Helm,Killed when Voyager was pulled into the Delta Quadrant,"VOY: ""Caretaker""",Red
+179,2371,#AD722C,"Torres, B'Elanna",Klingon,Chief engineer,Lieutenant junior grade,Operations/Engineering/Security,Fully Klingon version killed by Sulan,"VOY: ""Faces""",Yellow
+180,2371,#143F48,Unidentified,Human,CMO,Lieutenant Commander,Scientific/Medical,Killed when Voyager was pulled into the Delta Quadrant,"VOY: ""Caretaker""",Green/Blue
+181,2371,#143F48,Unidentified,Vulcan,Nurse,Unknown Rank,Scientific/Medical,Killed when Voyager was pulled into the Delta Quadrant,"VOY: ""Caretaker""",Green/Blue
+182,2371,blank,Unidentified,Human,Crewman,Unknown Rank,Other/No Designation,Killed when Voyager was pulled into the Delta Quadrant,"VOY: ""Caretaker""",Unknown/Other
+183,2372,#AD722C,"Bendera, Kurt",Human,Engineer,Crewman,Operations/Engineering/Security,A console exploded in his face during a Kazon attack,"VOY: ""Alliances""",Yellow
+184,2372,#AD722C,Bennet,Human,Shuttle pilot,Ensign,Operations/Engineering/Security,Killed in a shuttle crash,"VOY: ""Innocence""",Yellow
+185,2372,#AD722C,"Darwin, Frank",Human,Engineer,Crewman,Operations/Engineering/Security,Killed by Lon Suder,"VOY: ""Meld""",Yellow
+186,2372,#AD722C,"Kim, Harry",Human,Operations Officer,Ensign,Operations/Engineering/Security,Killed after being blown through a hull breach; replaced by duplicate,"VOY: ""Deadlock""",Yellow
+187,2372,#AD722C,"Jonas, Michael",Human,Engineer,Crewman,Operations/Engineering/Security,"Killed when he fell into a plasma fire, near Voyager's warp core","VOY: ""Investigations""",Yellow
+188,2372,#AD722C,Tuvix,Vulcan/Talaxian Hybrid,"Tactical officer, Chef",Lieutenant,Operations/Engineering/Security,"""Murdered"" by Kathryn Janeway to restore Tuvok and Neelix","VOY: ""Tuvix""",Yellow
+189,2372,#AD722C,Unidentified,Human,Security officer,Unknown Rank,Operations/Engineering/Security,Killed when Teirna committed suicide bombing,"VOY: ""Basics, Part I""",Yellow
+190,2372,#AD722C,Unidentified,Human,Crewman,Unknown Rank,Operations/Engineering/Security,Killed by the invading Kazon-Nistrim,"VOY: ""Basics, Part I""",Yellow
+191,2373,#AD722C,Hogan,Human,Engineer,Ensign,Operations/Engineering/Security,Killed by a Hanonian land eel,"VOY: ""Basics, Part II""",Yellow
+192,2373,#AD722C,"Jetal, Ahni",Human,Shuttle pilot,Ensign,Operations/Engineering/Security,Killed on an away mission by massive synaptic failure,"VOY: ""Latent Image""",Yellow
+193,2373,#AD722C,"Kaplan, Marie",Human,Shuttle pilot,Ensign,Operations/Engineering/Security,Killed by former Borg drones on a planet in the Nekrit Expanse,"VOY: ""Unity""",Yellow
+194,2373,#AD722C,Martin,Human,Transporter operator,Ensign,Operations/Engineering/Security,"Killed by Kes, while she was possessed by Tieran","VOY: ""Warlord""",Yellow
+195,2373,#AD722C,Seska,Cardassian,Crewman,Ensign,Operations/Engineering/Security,Killed when Voyager was retaken from the Kazon-Nistrim,"VOY: ""Basics, Part II""",Yellow
+196,2373,#AD722C,"Suder, Lon",Betazoid,Crewman,Enlisted,Operations/Engineering/Security,Killed while helping retake Voyager from the Kazon-Nistrim,"VOY: ""Basics, Part II""",Yellow
+197,2373,#143F48,Unidentified,Human,Crewman,Unknown Rank,Scientific/Medical,Killed by a Hanonian land eel in a cave on Hanon IV,"VOY: ""Basics, Part II""",Green/Blue
+198,2373,#AD722C,Unidentified,Human,Crewman,Unknown Rank,Operations/Engineering/Security,Killed by a Swarm species alien,"VOY: ""The Swarm""",Yellow
+199,2374,#AD722C,"Ballard, Lyndsay",Human,Engineer,Ensign,Operations/Engineering/Security,Killed by a Hirogen neural disruptor; later reanimated as Jhet'leya,"VOY: ""Ashes to Ashes""",Yellow
+200,2374,#AD722C,Unidentified,Human,,Crewman,Operations/Engineering/Security,Killed by a Srivani experiment,"VOY: ""Scientific Method""",Yellow
+201,2374,#AD722C,Unidentified,Human,,Ensign,Operations/Engineering/Security,Burned to death as a result of exposure of subnucleonic radiation,"VOY: ""One""",Yellow
+202,2378,#AD722C,"Carey, Joe",Human,Assistant Chief Engineer,Lieutenant,Operations/Engineering/Security,Murdered by Verin,"VOY: ""Friendship One""",Yellow
+203,2374,#AD722C,Unnamed,Human,,Chief petty officer,Operations/Engineering/Security,Killed by severe phaser burns of the Romulans,"VOY: ""Message in a Bottle""",Yellow
+204,2374,#AD722C,Unnamed,Human,,Officer,Operations/Engineering/Security,Killed by severe phaser burns of the Romulans,"VOY: ""Message in a Bottle""",Yellow
+205,2376,transparent,"Amantes, David",,,Crewman,Other/No Designation,Killed during an attack by nucleogenic lifeforms,"VOY: ""Equinox""",Unknown/Other
+206,2376,transparent,"Chang, Dorothy",,,Ensign,Other/No Designation,Killed during an attack by nucleogenic lifeforms,"VOY: ""Equinox""",Unknown/Other
+207,2376,transparent,"Bowler, John",,,Lieutenant,Other/No Designation,Killed during an attack by nucleogenic lifeforms,"VOY: ""Equinox""",Unknown/Other
+208,2376,transparent,"Yates, William",,,Lieutenant,Other/No Designation,Killed during an attack by nucleogenic lifeforms,"VOY: ""Equinox""",Unknown/Other
+209,2376,transparent,"Regis, Edward",,,Ensign,Other/No Designation,Killed during an attack by nucleogenic lifeforms,"VOY: ""Equinox""",Unknown/Other
+210,2376,#8C212B,"Burke, Maxwell",Human,XO,Lieutenant,Command/Helm,Killed by nucleogenic lifeforms while trying to get to the Equinox's shuttlebay,"VOY: ""Equinox, Part II""",Red
+211,2376,#8C212B,"Ransom, Rudolph",Human,Commanding officer,Captain,Command/Helm,Killed when the Equinox was destroyed,"VOY: ""Equinox, Part II""",Red
+212,2376,#143F48,Thompson,Human,,Crewman,Scientific/Medical,Killed by nucleogenic lifeforms while trying to get to the Equinox's shuttlebay,"VOY: ""Equinox, Part II""",Green/Blue
+213,2354,#FEFEFE,"Crusher, Jack",Human,USS Stargazer,Lieutenant Commander,Command/Helm,Killed on an away mission in an accident,"TNG: ""Encounter at Farpoint""",White
+214,2357,#FEFEFE,"Rossa, Connor",Human,Galen IV,Lieutenant Commander,Command/Helm,Killed during a Talarian raid,"TNG: ""Suddenly Human""",White
+215,2364,gold,"Jameson, Mark",Human,AdmiraltyStarfleet Command,Rear Admiral,Command/Helm,Died from side effects of a de-aging treatment from Cerberus II,"TNG: ""Too Short a Season""",Yellow
+216,2364,#8C212B,"Rice, Paul",Human,Commanding Officer,Captain,Command/Helm,Killed when his ship was destroyed by the Minosian weaponry.,"TNG: ""The Arsenal of Freedom""",Red
+217,2368,black,"Albert, Joshua",Human,Nova SquadronStarfleet Academy,Cadet,Starfleet Academy,Killed while attempting to perform the banned Kolvoord Starburst maneuver,"TNG: ""The First Duty""",Black
+218,2371,#FEFEFE,"Kirk, James Tiberius",Human,Inactive (retired),Captain,Other/No Designation,Crushed under a bridge after saving the Veridian system,Star Trek Generations,White
+219,2387,transparent,Spock,Human/Vulcan hybrid,"Commanding officer,Jellyfish",Ambassador,Command/Helm,Jellyfish pulled into black hole; listed as MIA,Star Trek,Unknown/Other
